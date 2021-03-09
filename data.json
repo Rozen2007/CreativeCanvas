@@ -1,0 +1,110 @@
+[
+  {
+    "title" : "collatzSunrise",
+    "demo" : "https://Rozen2007.github.io/CreativeCanvas/collatzSunrise/",
+    "src" : "https://github.com/Rozen2007/CreativeCanvas/tree/main/collatzSunrise",
+    "img" : "https://raw.githubusercontent.com/anuraghazra/CanvasFun/master/thumbnails/collatzsunrise_400x400-min.png"
+  },
+  {
+    "title" : "Slime",
+    "demo" : "https://rozen2007.github.io/Slime/",
+    "src" : "https://github.com/Rozen2007/Slime",
+    "img" : "https://raw.githubusercontent.com/anuraghazra/CanvasFun/master/thumbnails/slime_400x400-min.png"
+  },
+  {
+    "title" : "Parasites",
+    "demo" : "https://rozen2007.github.io/Parasites/",
+    "src" : "https://github.com/Rozen2007/Parasites/",
+    "img" : "https://raw.githubusercontent.com/anuraghazra/CanvasFun/master/thumbnails/parasites_400x400-min.png"
+  },
+  {
+    "title" : "10PrintLine",
+    "demo" : "https://Rozen2007.github.io/CreativeCanvas/10PrintLine",
+    "src" : "https://github.com/Rozen2007/CreativeCanvas/tree/master/10PrintLine",
+    "img" : "https://Rozen2007.github.io/CreativeCanvas/thumbnails/10printline_400x400-min.png"
+  },
+  {
+    "title" : "ChaosGame",
+    "demo" : "https://Rozen2007.github.io/CreativeCanvas/ChaosGame",
+    "src" : "https://github.com/Rozen2007/CreativeCanvas/tree/master/ChaosGame",
+    "img" : "https://Rozen2007.github.io/CreativeCanvas/thumbnails/chaosgame_400x400-min.png"
+  },
+  {
+    "title" : "CirclePattern",
+    "demo" : "https://Rozen2007.github.io/CreativeCanvas/circlePattern",
+    "src" : "https://github.com/Rozen2007/CreativeCanvas/tree/master/circlePattern",
+    "img" : "https://Rozen2007.github.io/CreativeCanvas/thumbnails/circlepattern-min.png"
+  },
+  {
+    "title" : "Fireworks",
+    "demo" : "https://Rozen2007.github.io/CreativeCanvas/fireworks",
+    "src" : "https://github.com/Rozen2007/CreativeCanvas/tree/master/fireworks",
+    "img" : "https://Rozen2007.github.io/CreativeCanvas/thumbnails/fireworks_400x400-min.png"
+  },
+  {
+    "title" : "FractalTree",
+    "demo" : "https://Rozen2007.github.io/CreativeCanvas/fractalTree",
+    "src" : "https://github.com/Rozen2007/CreativeCanvas/tree/master/fractalTree",
+    "img" : "https://raw.githubusercontent.com/anuraghazra/CanvasFun/master/thumbnails/frataltree_400x400-min.png"
+  },
+  {
+    "title" : "Isometric3D",
+    "demo" : "https://Rozen2007.github.io/CreativeCanvas/isometric3D/",
+    "src" : "https://github.com/Rozen2007/CreativeCanvas/tree/main/isometric3D",
+    "img" : "https://Rozen2007.github.io/CreativeCanvas/thumbnails/isometric3d_400x400-min.png"
+  },
+  {
+    "title" : "particleShift",
+    "demo" : "https://Rozen2007.github.io/CreativeCanvas/particleShift",
+    "src" : "https://github.com/Rozen2007/CreativeCanvas/tree/master/particleShift",
+    "img" : "https://Rozen2007.github.io/CreativeCanvas/thumbnails/particleshift_400x400-min.png"
+  },
+  {
+    "title" : "particleSystem",
+    "demo" : "https://Rozen2007.github.io/CreativeCanvas/particleSystem",
+    "src" : "https://github.com/Rozen2007/CreativeCanvas/tree/master/particleSystem",
+    "img" : "https://Rozen2007.github.io/CreativeCanvas/thumbnails/particlesystem_400x400-min.png"
+  },
+  {
+    "title" : "phyllotaxis",
+    "demo" : "https://Rozen2007.github.io/CreativeCanvas/phyllotaxis",
+    "src" : "https://github.com/Rozen2007/CreativeCanvas/tree/master/phyllotaxis",
+    "img" : "https://Rozen2007.github.io/CreativeCanvas/thumbnails/phyllotaxis_400x400-min.png"
+  },
+  {
+    "title" : "smartRockets",
+    "demo" : "https://Rozen2007.github.io/CreativeCanvas/smartRockets",
+    "src" : "https://github.com/Rozen2007/CreativeCanvas/tree/master/smartRockets",
+    "img" : "https://Rozen2007.github.io/CreativeCanvas/thumbnails/smartrockets400x400-min.png"
+  },
+  {
+    "title" : "snowFlake",
+    "demo" : "https://Rozen2007.github.io/CreativeCanvas/snowFlake",
+    "src" : "https://github.com/Rozen2007/CreativeCanvas/tree/master/snowFlake",
+    "img" : "https://Rozen2007.github.io/CreativeCanvas/thumbnails/snowflake_400x400-min.png"
+  },
+  {
+    "title" : "KochStar",
+    "demo" : "https://Rozen2007.github.io/CreativeCanvas/KochStar",
+    "src" : "https://github.com/Rozen2007/CreativeCanvas/tree/master/KochStar",
+    "img" : "https://Rozen2007.github.io/CreativeCanvas/thumbnails/kochStar_400x400-min.png"
+  },
+  {
+    "title" : "7SegmentDisplay",
+    "demo" : "https://Rozen2007.github.io/CreativeCanvas/sevenSegmentDisplay",
+    "src" : "https://github.com/Rozen2007/CreativeCanvas/tree/master/sevenSegmentDisplay",
+    "img" : "https://Rozen2007.github.io/CreativeCanvas/thumbnails/7segment_400x400-min.png"
+  },
+  {
+    "title" : "Love Hearts",
+    "demo" : "https://Rozen2007.github.io/CanvasFun/LoveHearts/",
+    "src" : "https://github.com/Rozen2007/CreativeCanvas/tree/master/LoveHearts",
+    "img" : "https://Rozen2007.github.io/CreativeCanvas/thumbnails/loveHearts_400x400-min.png"
+  },
+  {
+    "title" : "InfiniteTriangles",
+    "demo" : "https://Rozen2007.github.io/CreativeCanvas/infiniteTriangles",
+    "src" : "https://github.com/Rozen2007/CreativeCanvas/tree/master/infiniteTriangles",
+    "img" : "https://Rozen2007.github.io/CreativeCanvas/thumbnails/infinitetrig_400x400-min.png"
+  }
+]

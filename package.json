@@ -1,0 +1,19 @@
+{
+  "name": "canvas-fun",
+  "version": "1.0.0",
+  "description": "Creative Coding Projects",
+  "main": "app.js",
+  "scripts": {
+    "readme-gen": "node generate-readme.js",
+    "subdir-readme-gen": "node generate-folder-readmes.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rozen2007/CreativeCanvas.git"
+  },
+  "author": "Rozen deedi",
+  "license": "MIT",
+  "bugs": {
+  },
+  "homepage": "https://github.com/anuraghazra/CanvasFun#readme"
+}
